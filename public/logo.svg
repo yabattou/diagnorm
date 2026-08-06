@@ -1,0 +1,7 @@
+<svg width="160" height="40" viewBox="0 0 160 40" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="4" width="32" height="32" rx="7" fill="#0f2a43" />
+  <path d="M9 27V13h6c4 0 7 3 7 7s-3 7-7 7H9z" fill="#1fa398" />
+  <text x="42" y="27" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0f2a43">
+    Diagnorm
+  </text>
+</svg>
