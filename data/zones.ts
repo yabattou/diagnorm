@@ -45,6 +45,13 @@ export const departements: Departement[] = [
     nom: "Val-d'Oise",
     code: "95",
   },
+  
+  {
+    slug: "oise",
+    nom: "Oise",
+    code: "60",
+  },
+
 ];
 
 export const villesPrincipales = [
@@ -71,10 +78,15 @@ export const villesPrincipales = [
   "Évry-Courcouronnes",
   "Melun",
   "Meaux",
+  "Beauvais",
+  "Compiègne",
+  "Creil",
+
 ];
 
+
 export const zoneIntervention = {
-  nom: "Île-de-France",
+  nom: "Île-de-France et Oise",
   description:
-    "DIAGNORM intervient dans les huit départements d'Île-de-France pour réaliser vos diagnostics immobiliers dans le cadre d'une vente, d'une location ou d'une rénovation.",
+    "DIAGNORM intervient dans les huit départements d'Île-de-France ainsi que dans l'Oise (60) pour réaliser vos diagnostics immobiliers dans le cadre d'une vente, d'une location ou d'une rénovation.",
 };
